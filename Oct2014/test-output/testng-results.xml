@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3635" started-at="2014-11-07T03:21:54Z" finished-at="2014-11-07T03:21:57Z">
+    <groups>
+      <group name="functional">
+        <method signature="TestExample.testContact()[pri:0, instance:edu.wbqa.tg.TestExample@a287e60]" name="testContact" class="edu.wbqa.tg.TestExample"/>
+      </group> <!-- functional -->
+    </groups>
+    <test name="Default test" duration-ms="3635" started-at="2014-11-07T03:21:54Z" finished-at="2014-11-07T03:21:57Z">
+      <class name="edu.wbqa.tg.TestExample">
+        <test-method status="PASS" signature="doThisBefore()[pri:0, instance:edu.wbqa.tg.TestExample@a287e60]" name="doThisBefore" is-config="true" duration-ms="2879" started-at="2014-11-06T19:21:54Z" finished-at="2014-11-06T19:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doThisBefore -->
+        <test-method status="PASS" signature="testContact()[pri:0, instance:edu.wbqa.tg.TestExample@a287e60]" name="testContact" duration-ms="740" started-at="2014-11-06T19:21:56Z" finished-at="2014-11-06T19:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContact -->
+        <test-method status="PASS" signature="doThisAfter()[pri:0, instance:edu.wbqa.tg.TestExample@a287e60]" name="doThisAfter" is-config="true" duration-ms="1" started-at="2014-11-06T19:21:57Z" finished-at="2014-11-06T19:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doThisAfter -->
+      </class> <!-- edu.wbqa.tg.TestExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

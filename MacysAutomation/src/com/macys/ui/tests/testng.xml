@@ -1,0 +1,32 @@
+<suite name="Suite1" verbose="1">
+	<test name="UnitTests">
+		<classes>
+			<class name="com.macys.ui.tests.HomePageTest" />
+		</classes>
+	</test>
+
+	<test name="APITests">
+		<classes>
+			<class name="com.macys.ui.tests.HomePageTest" />
+		</classes>
+	</test>
+
+	<test name="UI">
+		<classes>
+			<class name="com.macys.ui.tests.HomePageTest" />
+		</classes>
+	</test>
+	
+	<test name="Mobile">
+		<classes>
+			<class name="com.macys.ui.tests.HomePageTest" />
+		</classes>
+	</test>	
+	
+	<test name="Performance">
+		<classes>
+			<class name="com.macys.ui.tests.HomePageTest" />
+		</classes>
+	</test>		
+
+</suite>
